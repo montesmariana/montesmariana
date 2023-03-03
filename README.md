@@ -1,8 +1,6 @@
-👋 Hi, I’m Mariana Montes, Dr. in Linguistics with a growing passion for programming.
+👋 Hi, I’m Mariana Montes, Dr. in Linguistics with a growing passion for programming. I'm currently working in a Research Data Management Team, helping researchers manage their data ;)
 
-I'm interested in enhancing the experience of research with R: running reproducible analyses, writing code that others can read, visualizing data in an honest and clear way, and keeping data, code and product linked. In particular, I want to help people in the Humanities (especially, but not exclusively, linguists), since in such areas our formal education in programming is rather lacking. I also have some Python and Javascript experience :)
-
-I keep [a blog](https://www.marianamontes.me) where I publish posts on these topics now and then: creating R projects, using R Markdown... GitHub has become a great source to keep my work together. These are the highlights:
+I irregularly keep [a blog](https://www.marianamontes.me) where I publish posts on these topics now and then: creating R projects, using R Markdown... GitHub has become a great source to keep my work together. These are the highlights:
 
 ## PhD
 
